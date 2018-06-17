@@ -1,0 +1,4 @@
+2018-06-11 21:22:28,304 [WARN] [log4cpp.cc:test:18] this is warn msg
+2018-06-11 21:22:28,304 [INFO] [log4cpp.cc:test:19] this is info msg
+2018-06-11 21:22:28,304 [ERROR] [log4cpp.cc:test:20] this is error msg
+2018-06-11 21:22:28,305 [DEBUG] [log4cpp.cc:test:21] this is debug msg
